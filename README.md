@@ -40,3 +40,5 @@ susan.eye_color # => "Green"
 Your `#initialize` method should use iteration and the `#send` method to mass
 assign the value of each key/value pair to its associated key (i.e. method).
 Refer to the previous reading to help you solve this one.
+
+https://github.com/G3o-R/phase-3-metaprogramming-mass-assignment-lab
